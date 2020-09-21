@@ -1,0 +1,1 @@
+This is Reeadme file. We are adding files to enable CI CD Pipeline for ECR to ECS deployment using AWS CodePipeline.
